@@ -1,7 +1,9 @@
 # NextWordGen: Next-Word Prediction Model
-NextWordGen is my first NLP project that predicts the next word in a sequence using trigrams. 
-It leverages Wikipedia data, applies Laplace smoothing, and calculates perplexity. 
-Future updates will focus on enhancing prediction accuracy and perplexity evaluation.
+NextWordPredictor is a beginner project in Natural Language Processing (NLP)
+focused on predicting the next word in a sequence using trigram models.
+By leveraging data from Wikipedia, it generates predictions based on prior context. 
+The project incorporates Laplace smoothing and calculates perplexity to assess model 
+accuracy and performance.
 
 ## Features
 - Next-word prediction: Predicts the next word based on the previous context using trigrams.
